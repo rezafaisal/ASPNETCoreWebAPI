@@ -1,0 +1,14 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\bin\Debug\netcoreapp2.2\webapi.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\bin\Debug\netcoreapp2.2\webapi.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\bin\Debug\netcoreapp2.2\webapi.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\obj\Debug\netcoreapp2.2\webapi.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\obj\Debug\netcoreapp2.2\webapi.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\obj\Debug\netcoreapp2.2\webapi.RazorTargetAssemblyInfo.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\obj\Debug\netcoreapp2.2\webapi.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\webapi\obj\Debug\netcoreapp2.2\webapi.pdb

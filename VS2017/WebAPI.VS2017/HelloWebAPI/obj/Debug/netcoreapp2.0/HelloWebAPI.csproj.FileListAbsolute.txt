@@ -1,0 +1,11 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\bin\Debug\netcoreapp2.0\HelloWebAPI.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\bin\Debug\netcoreapp2.0\HelloWebAPI.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\bin\Debug\netcoreapp2.0\HelloWebAPI.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\bin\Debug\netcoreapp2.0\HelloWebAPI.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\bin\Debug\netcoreapp2.0\HelloWebAPI.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\obj\Debug\netcoreapp2.0\HelloWebAPI.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\obj\Debug\netcoreapp2.0\HelloWebAPI.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\obj\Debug\netcoreapp2.0\HelloWebAPI.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\obj\Debug\netcoreapp2.0\HelloWebAPI.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\obj\Debug\netcoreapp2.0\HelloWebAPI.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\WebAPI.VS2017\HelloWebAPI\obj\Debug\netcoreapp2.0\HelloWebAPI.csprojAssemblyReference.cache

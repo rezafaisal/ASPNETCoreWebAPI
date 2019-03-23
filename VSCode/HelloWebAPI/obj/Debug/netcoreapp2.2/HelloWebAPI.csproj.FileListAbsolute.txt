@@ -1,0 +1,14 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\bin\Debug\netcoreapp2.2\HelloWebAPI.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\bin\Debug\netcoreapp2.2\HelloWebAPI.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\bin\Debug\netcoreapp2.2\HelloWebAPI.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\bin\Debug\netcoreapp2.2\HelloWebAPI.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\bin\Debug\netcoreapp2.2\HelloWebAPI.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\obj\Debug\netcoreapp2.2\HelloWebAPI.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\obj\Debug\netcoreapp2.2\HelloWebAPI.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\obj\Debug\netcoreapp2.2\HelloWebAPI.RazorAssemblyInfo.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\obj\Debug\netcoreapp2.2\HelloWebAPI.RazorAssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\obj\Debug\netcoreapp2.2\HelloWebAPI.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\obj\Debug\netcoreapp2.2\HelloWebAPI.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\obj\Debug\netcoreapp2.2\HelloWebAPI.RazorTargetAssemblyInfo.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\obj\Debug\netcoreapp2.2\HelloWebAPI.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\HelloWebAPI\obj\Debug\netcoreapp2.2\HelloWebAPI.pdb

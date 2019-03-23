@@ -1,0 +1,14 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\bin\Debug\netcoreapp2.2\CoreBookStoreWebAPI.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\bin\Debug\netcoreapp2.2\CoreBookStoreWebAPI.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\bin\Debug\netcoreapp2.2\CoreBookStoreWebAPI.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\bin\Debug\netcoreapp2.2\CoreBookStoreWebAPI.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\bin\Debug\netcoreapp2.2\CoreBookStoreWebAPI.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\obj\Debug\netcoreapp2.2\CoreBookStoreWebAPI.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\obj\Debug\netcoreapp2.2\CoreBookStoreWebAPI.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\obj\Debug\netcoreapp2.2\CoreBookStoreWebAPI.RazorAssemblyInfo.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\obj\Debug\netcoreapp2.2\CoreBookStoreWebAPI.RazorAssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\obj\Debug\netcoreapp2.2\CoreBookStoreWebAPI.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\obj\Debug\netcoreapp2.2\CoreBookStoreWebAPI.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\obj\Debug\netcoreapp2.2\CoreBookStoreWebAPI.RazorTargetAssemblyInfo.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\obj\Debug\netcoreapp2.2\CoreBookStoreWebAPI.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VSCode\CoreBookStoreWebAPI\obj\Debug\netcoreapp2.2\CoreBookStoreWebAPI.pdb

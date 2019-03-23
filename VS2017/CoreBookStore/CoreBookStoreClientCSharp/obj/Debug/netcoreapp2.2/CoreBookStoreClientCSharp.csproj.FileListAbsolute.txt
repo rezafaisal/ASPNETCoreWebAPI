@@ -1,0 +1,11 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\obj\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\obj\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\obj\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\obj\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\bin\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\bin\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\bin\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\bin\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\bin\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\obj\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core Web API\source\VS2017\CoreBookStore\CoreBookStoreClientCSharp\obj\Debug\netcoreapp2.2\CoreBookStoreClientCSharp.pdb
